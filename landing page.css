@@ -1,0 +1,49 @@
+
+.section1{
+    margin: 10px;
+    padding:30px;
+    background-color:rgb(168, 200, 250);
+    border-radius:10px;
+    
+    
+}
+
+.section2{
+    background-image:url(https://wonderfulengineering.com/wp-content/uploads/2023/05/image-71-1024x683.png);
+    background-size:contain;
+    margin:10px;
+    padding:85px;
+    border-radius:20px ;
+}
+.section3{
+    background-image: url(https://www.pngitem.com/pimgs/m/540-5409953_nodejs-development-hd-png-download.png);
+    background-size: contain;
+    border-radius:40px  ;
+    margin: 30px;
+    padding:191px;
+    
+    
+}
+.section4{
+    background-color: rgb(200, 244, 155);   
+    margin:50px;
+    padding:30px;
+    border-radius:20px;
+}
+.item{
+    border: 3px solid black;
+    
+    padding:10px ;
+    margin:75px;
+    border-radius:9px;
+    background-color:rgba(255, 255, 255, 0.989);
+    
+}
+.container2{
+    display: flex;
+}
+@media screen {
+
+    
+}
+
